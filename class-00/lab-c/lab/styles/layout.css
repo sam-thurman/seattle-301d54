@@ -1,0 +1,27 @@
+nav {
+  margin-top: 25px;
+}
+
+nav, article, aside, footer section {
+  margin: 0 auto;
+  width: 900px;
+}
+
+nav ul {
+  float: right;
+}
+
+nav li {
+  float: left;
+  padding-right: 2px;
+}
+
+main p {
+  color: #333;
+  font-size: 1.2em;
+  line-height: 1.3em;
+  text-indent: 30px;
+  margin: 20px 0px;
+}
+
+
